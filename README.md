@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center">A passionate python developer.</h3>
+<h3 align="center">A passionate geek from India.</h3>
 
 
 <p align="left"> <a href="https://twitter.com/flackk_" target="blank"><img src="https://img.shields.io/twitter/follow/flackk_?logo=twitter&style=for-the-badge" alt="flackk_" /></a> </p>
 
 - 🔭 I’m currently working on **Python Automation**
 
-- 🌱 I’m currently learning **Python Automation**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **any python projects.**
 
