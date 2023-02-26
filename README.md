@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python Automation**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python Automation**
 
 - 👯 I’m looking to collaborate on **any python projects.**
 
