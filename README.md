@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Omkar</h1>
+<h1 align="center">Hi 👋, I'm Kaustubh</h1>
 <h3 align="center">A passionate python developer.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/omkarj639" target="blank"><img src="https://img.shields.io/twitter/follow/omkarj639?logo=twitter&style=for-the-badge" alt="omkarj639" /></a> </p>
+<p align="left"> <a href="https://twitter.com/flackk_" target="blank"><img src="https://img.shields.io/twitter/follow/flackk_?logo=twitter&style=for-the-badge" alt="flackk_" /></a> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Python Automation**
 
-- 🌱 I’m currently learning **Flask, Django**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any python projects.**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/flackk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flackk_" height="30" width="40" /></a>
-<a href="https://discord.gg/FAT_GUY#1765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FAT_GUY#1765" height="30" width="40" /></a>
+<a href="https://discord.gg/Kaustubh_#3540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kaustubh_#3540" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
