@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/flackk_" target="blank"><img src="https://img.shields.io/twitter/follow/flackk_?logo=twitter&style=for-the-badge" alt="flackk_" /></a> </p>
 
-- 🔭 I’m currently working on **Python Automation**
+- 🔭 I’m currently working on **Front-End Development**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **React.js and Solidity**
 
-- 👯 I’m looking to collaborate on **any python projects.**
+- 👯 I’m looking to collaborate on **any Web2 or Web3 projects.**
 
 - 💬 Ask me about **anything**
 
