@@ -12,7 +12,7 @@
 
 I'm a frontend developer with a strong foundation in React.js and a keen interest in blockchain technology. My journey in the tech world has been driven by curiosity and a constant desire to learn and create.
 
-- 🌱 I’m currently diving deep into **React.js**, **TensorFlow**, and **Solidity**.
+- 🌱 Currently exploring **React.js**, **TensorFlow**, and **Solidity**.
 - 👯 Open to collaborate on innovative **Web2 or Web3 projects**.
 - 💬 Feel free to ask me about **anything tech-related**.
 
@@ -36,11 +36,9 @@ I'm a frontend developer with a strong foundation in React.js and a keen interes
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/automation/automation-original.svg" alt="Automation" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="40" height="40" />
   <!-- Add more icons as needed -->
 </p>
-
-## GitHub Stats
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
