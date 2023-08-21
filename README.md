@@ -1,49 +1,46 @@
-<h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center">A passionate tech enthusiast from India.</h3>
+<div align="center">
+  <h1>Hi there, I'm Kaustubh 👋</h1>
+  <p>A passionate tech enthusiast from India</p>
+  <p>
+    <a href="https://twitter.com/flackk_" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/flackk_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://twitter.com/flackk_" target="blank"><img src="https://img.shields.io/twitter/follow/flackk_?logo=twitter&style=for-the-badge" alt="flackk_" /></a>
-</p>
+## About Me
 
-- 🔭 I’m currently working on **Front-End Development**
+I'm a frontend developer with a strong foundation in React.js and a keen interest in blockchain technology. My journey in the tech world has been driven by curiosity and a constant desire to learn and create.
 
-- 🌱 I’m currently learning **React.js, TensorFlow, and Solidity**
+- 🌱 I’m currently diving deep into **React.js**, **TensorFlow**, and **Solidity**.
+- 👯 Open to collaborate on innovative **Web2 or Web3 projects**.
+- 💬 Feel free to ask me about **anything tech-related**.
 
-- 👯 I’m looking to collaborate on **Web2 or Web3 projects**
+## Connect with Me
 
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **kaustubhp2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/flackk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flackk_" height="30" width="40" /></a>
-  <a href="https://discord.gg/Kaustubh_#3540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kaustubh_#3540" height="30" width="40" /></a>
+  <a href="https://twitter.com/flackk_" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/Kaustubh_#3540" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="mailto:kaustubhp2003@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge" alt="Email" height="30" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Tech Stack
+
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" />
+  <!-- Add more icons as needed -->
 </p>
 
-<!-- <a href=#><img src="contributions.svg"></a> -->
+## GitHub Stats
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
