@@ -38,7 +38,6 @@ I'm a frontend developer with a strong foundation in React.js and a keen interes
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/automation/automation-original.svg" alt="Automation" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machinelearning/machinelearning-original.svg" alt="Machine Learning" width="40" height="40" />
+  
   <!-- Add more icons as needed -->
 </p>
