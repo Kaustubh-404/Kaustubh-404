@@ -2,8 +2,8 @@
   <h1>Hi there, I'm Kaustubh 👋</h1>
   <p>A passionate tech enthusiast from India</p>
   <p>
-    <a href="https://twitter.com/flackk_" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/flackk_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <a href="https://twitter.com/kausstub" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/kausstub?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
     </a>
   </p>
 </div>
