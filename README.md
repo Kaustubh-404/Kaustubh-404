@@ -19,7 +19,7 @@ I'm a frontend developer with a strong foundation in React.js and a keen interes
 ## Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/flackk_" target="blank">
+  <a href="https://twitter.com/kausstub" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://discord.gg/Kaustubh_#3540" target="blank">
